@@ -29,4 +29,5 @@
 
 # POP QUIZ 自我整理小考試
   * [JSP_全英](https://forms.gle/UN6NY3L9NPcdHdnc8)
+  * [JDBC](https://forms.gle/ScaEGA6xdmVbP4Rc9)
   * [SERVLET_全英](https://forms.gle/VrjudZHezcrGLQVo8)
