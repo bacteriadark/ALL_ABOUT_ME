@@ -15,13 +15,13 @@
       HTML / CSS / JavaScript / JQuery</br>
 - 額外學習：</br>
   AWS、Android Studio、Python</br>
-- 技術作品</br>
-  ALL DOG CAT 寵物商城、小遊戲：五子棋</br>
+- 技術作品與展示影片</br>
+  [AllDogCat寵物商城 負責內容：美容師聊天室、作品集、收藏](https://youtu.be/OI1ZRGJDEGo)</br>
+  貪吃蛇</br>
   
 # LONG INTRO 詳細介紹</br>
 >    您好！我是Jorden，以前主要深耕於業務與活動策劃領域，閒暇之餘喜歡加強自我能力並埋頭研究，也因此在研究APP與小遊戲的我就這樣一頭栽進了軟體工程領域，期間遇到許多困難與壓力，但還是在最後獲得滿滿的成就，未來將會持續努力並挑戰自己，讓自己有更多面向。
 # MY YOUTUBE 自我複習整理</br>
-  * [專題使用系統介紹(有字幕)](https://youtu.be/OI1ZRGJDEGo)
   * JSP
   * SERVLET
   * JDBC
